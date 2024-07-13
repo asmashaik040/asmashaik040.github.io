@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+*{
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	-ms-box-sizing:border-box;
+	box-sizing:border-box;
+}
+
+body {
+	font-family: 'Poppins', sans-serif;
+	font-size:16px;
+    max-width:1920px;
+    margin:0 auto;
+	overflow-x:hidden;
+}
+
+li::marker {
+    color: #ffd700;
+  }
+
+@keyframes example {
+    0%   {bottom:0px;}
+    100%  {bottom:7px;}
+}
