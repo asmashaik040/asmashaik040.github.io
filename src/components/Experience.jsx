@@ -22,7 +22,7 @@ const Experience = () => {
         },
         {
           itemNo: 4,
-          resp: "ContinuousIntegration/Deployment Pipeline integration, pull requests, code reviews.",
+          resp: "Continuous Integration / Deployment Pipeline integration, pull requests, code reviews.",
         },
         {
           itemNo: 5,
@@ -34,7 +34,7 @@ const Experience = () => {
         },
         {
           itemNo: 7,
-          resp: "Improvedteamcollaboration and knowledge sharing by explaining features and best practices.",
+          resp: "Improved team collaboration and knowledge sharing by explaining features and best practices.",
         },
       ],
       techUsed: [
@@ -64,10 +64,14 @@ const Experience = () => {
         },
         {
           itemNo: 3,
-          resp: "Unit, Integration, E2E Testing.",
+          resp: "Led cross-functional teams to deliver user-centric solutions, resulting in increased engagement and improved user experiences.",
         },
         {
           itemNo: 4,
+          resp: "Unit, Integration, E2E Testing.",
+        },
+        {
+          itemNo: 5,
           resp: "Facilitated onboarding and mentorship of new developers by resolving problems, setting up a development environment locally.",
         },
       ],

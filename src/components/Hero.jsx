@@ -4,14 +4,13 @@ const Hero = () => {
       <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-40">
         <div className="text-center">
           <h1 className="text-4xl font-bold tracking-tight sm:text-6xl">
-            Asma Shaik
+            <span className="text-yellow-400">Asma </span>Shaik
           </h1>
           <p className="mt-6 text-lg leading-8">
-            Senior Front-End Developer with over 5 years of experience in
+            Senior Front-End Developer with 5 years of experience in
             creating seamless web applications, developing, and maintaining
-            robust applications. Proficient in JavaScript frameworks such as
-            React. Led cross-functional teams to deliver user-centric solutions,
-            resulting in increased engagement and improved user experiences.
+            robust applications. <br></br>Proficient in JavaScript frameworks such as
+            React JS and jQuery. <br></br>
             Passionate about clean code, responsive design, and staying
             up-to-date with industry trends.
           </p>
